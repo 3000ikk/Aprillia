@@ -1,0 +1,9 @@
+django==3.1
+djangorestframework==3.11.1
+pillow==7.1
+pytils
+python-decouple
+dj-database-url==0.5.0
+psycopg2-binary
+drf-yasg==1.17.1
+myapi
