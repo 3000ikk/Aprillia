@@ -47,7 +47,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
     'rest_framework.authtoken',
-    'django_filters',
+    'filters',
     'drf_yasg',
     'stripe',
     
